@@ -1,9 +1,9 @@
 {% if include.selector %}
-  {% assign selector = include.selector %}
+{% assign selector = include.selector %}
 {% endif %}
 
 {% if include.seed %}
-  {% assign seed = include.seed %}
+{% assign seed = include.seed %}
 {% endif %}
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/trianglify/2.0.0/trianglify.min.js"></script>
@@ -22,5 +22,12 @@
     element.appendChild(image);
   }
 
-  setRandomBgImage('{{ selector }}', '{{ seed }}', {{ zoom | default: 1}});
+  setRandomBgImage('{{ selector }}', '{{ seed }}', {
+  {
+    zoom |
+  default:
+    1
+  }
+  })
+  ;
 </script>
