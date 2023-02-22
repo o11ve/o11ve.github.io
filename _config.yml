@@ -8,7 +8,7 @@ baseurl: ""
 url: ""
 favicon: /assets/favicon/favicon.ico
 yat:
-  date_format: "%Y %b %d"
+  date_format: "%Y %m %d"
 markdown: kramdown
 kmarkdown:
   input: GFM
