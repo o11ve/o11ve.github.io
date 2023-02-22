@@ -6,9 +6,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here.
 baseurl: ""
 url: ""
-favicon: ./assets/favicon/favicon.ico
+favicon: /assets/favicon/favicon.ico
 yat:
-  date_format: "%Y %b %d"
+  date_format: "%Y %m %d"
 markdown: kramdown
 kmarkdown:
   input: GFM
