@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Spring AOP 6种典型应用场景
-subtitle: A awesome site is here.
+title: Spring AOP 应用场景
+subtitle: 0.o
 author: Olive
 categories: java
 tags: java spring aop
+date: 2023-03-02 15:00:00
 ---
 
 ## 前言

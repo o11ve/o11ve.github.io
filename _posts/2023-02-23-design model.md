@@ -1,10 +1,11 @@
 ---
 layout: post
-title: 常用设计模式汇总
-subtitle: A awesome site is here.
+title: design model
+subtitle: 0.o
 author: Olive
 categories: java
 tags: java design
+date: 2023-02-23 15:00:00
 ---
 
 ### 目录

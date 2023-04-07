@@ -1,14 +1,14 @@
-title: Mine Blog
+title: 0.o
 email: your-email@domain.com
 author: Olive
 copyright: "Unpublished Work (cleft) 2023-{currentYear} {author}"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here.
+  .
 baseurl: ""
 url: ""
 favicon: /assets/favicon/favicon.ico
 yat:
-  date_format: "%Y %m %d"
+  date_format: "%Y-%m-%d"
 markdown: kramdown
 kmarkdown:
   input: GFM
@@ -20,5 +20,5 @@ plugins:
   - jekyll-spaceship
 home:
   banner: /assets/images/banners/home0.jpg
-  heading: "Heading"
-  subheading: "SubHeading"
+  heading: "0.o"
+  subheading: ""
